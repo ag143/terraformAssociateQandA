@@ -1,5 +1,4 @@
-# terraformAssociateQandA
-terraformAssociateQandA
+# terraformAssociate Notes and QandA
 
 
 
