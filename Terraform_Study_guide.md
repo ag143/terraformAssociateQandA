@@ -1,11 +1,11 @@
 # 1	Understand infrastructure as code (IaC) concepts
 
-<details><summary><h2>1a	Explain what IaC is</h2></summary>
- 
+<details><summary><h2><a href=https://developer.hashicorp.com/terraform/intro>1a	Explain what IaC is</a></h2></summary>
+
 
 
 </details>
-<details><summary><h2>1b	Describe advantages of IaC patterns</h2></summary>
+<details><summary><h2><a href=https://www.hashicorp.com/blog/infrastructure-as-code-in-a-private-or-public-cloud>1b	Describe advantages of IaC patterns</a></h2></summary>
  
   
 </details>
