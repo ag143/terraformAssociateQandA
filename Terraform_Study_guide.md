@@ -92,3 +92,4 @@
 
 > [9b	Describe how Terraform Cloud enables collaboration and governance](https://developer.hashicorp.com/terraform/cloud-docs/policy-enforcement/sentinel)
 
+# [Hashicorp above reference](https://developer.hashicorp.com/terraform/tutorials/certification-003/associate-review-003)
