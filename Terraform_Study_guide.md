@@ -1,3 +1,14 @@
+|slno   | Topic                                            | Documentation|Tutorial|
+|-------|-------                                           |--------------|--------|
+|   1   | Understand infrastructure as code (IaC) concepts |Documentation|  TUtorial|
+|   1a  | Explain what IaC is |What is Terraform?<br>Infrastructure as Code in a Private or Public Cloud | Introduction to Infrastructure as Code with Terraform|
+|   1b  | Describe advantages of IaC patterns
+|   2   | Understand the purpose of Terraform (vs other IaC)
+|   2a  | Explain multi-cloud and provider-agnostic benefits
+
+
+
+
 # 1	Understand infrastructure as code (IaC) concepts
 
 > [1.a. Explain what IaC is](https://developer.hashicorp.com/terraform/intro)
