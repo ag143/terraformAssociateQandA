@@ -1,6 +1,6 @@
 # terraformAssociate Notes and QandA
 
-
+# [Notes](Terraform_Study_guide.md)
 
 ## 10 Min - Revision notes for Terraform Associate Exam. 
 
