@@ -6,7 +6,8 @@
 
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)  ![visitor badge-2](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=anuvindhs/Terraform-exam-StudyNotes&color=55acb7&style=for-the-badge&logo=Github)
 
-# https://testmozusercontent.com/q/1245195/student/review
+### https://testmozusercontent.com/q/1245195/student/review
+### https://jayendrapatil.com/terraform-cheat-sheet/
 
 
 # References
