@@ -8,7 +8,7 @@
 
 ### https://testmozusercontent.com/q/1245195/student/review
 ### https://jayendrapatil.com/terraform-cheat-sheet/
-### ./singleNote.md
+### https://ag143.github.io/terraform-associate-guide-003/SingleNote.md
 
 
 # References
